@@ -1,11 +1,12 @@
+
 h1
 {
-  color: darkred;
+  color: gray;
 }
 h2,h4
 {
   font-style: italic;
-  color: red;
+  color: maroon;
 }
 p
 {
@@ -13,8 +14,18 @@ p
 }
 body
 {
-  background-color:salmon;
+  background-color:white;
   font-family: sans-serif;
   text-align: center;
+
+}
+.intro,.author
+{
+  font-style: italic;
+
+}
+.author
+{
+  color: yellow;
 
 }
